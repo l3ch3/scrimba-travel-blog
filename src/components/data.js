@@ -18,13 +18,13 @@ export default [
         image: "mount-fuji.png"
     }, 
     {
-        title: "Hong Kong Central",
-        location: "Hong Kong",
-        googleMapsUrl: "https://www.google.com/maps/place/Hong+Kong/@22.3531164,113.8468098,10z/data=!3m1!4b1!4m5!3m4!1s0x3403e2eda332980f:0xf08ab3badbeac97c!8m2!3d22.3193039!4d114.1693611",
-        startDate: "12 April, 2021",
-        endDate: "17 May, 2021",
-        description: "Hong Kong, officially the Hong Kong Special Administrative Region of the People's Republic of China, is a city and special administrative region of China on the eastern Pearl River Delta in South China",
-        image: "hong-kong.png"
+        title: "Paris",
+        location: "France",
+        googleMapsUrl: "https://www.google.com/maps?q=france&source=lmns&bih=659&biw=1093&hl=en&sa=X&ved=2ahUKEwip2dX-9-D8AhWgpicCHRASDK0Q_AUoAXoECAEQAQ",
+        startDate: "1 December, 2021",
+        endDate: "17 December, 2021",
+        description: "France, in Western Europe, encompasses medieval cities, alpine villages and Mediterranean beaches. Paris, its capital, is famed for its fashion houses, classical art museums including the Louvre and monuments like the Eiffel Tower. The country is also renowned for its wines and sophisticated cuisine. Lascaux’s ancient cave drawings, Lyon’s Roman theater and the vast Palace of Versailles attest to its rich history",
+        image: "france.png"
     },
     {
         title: "Skiing",

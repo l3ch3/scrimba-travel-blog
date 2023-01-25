@@ -9,6 +9,7 @@ function App() {
 
   const cards = Data.map(item =>{
     return(
+      // item is the property for the name of the section in the data file
       <Cards
          title={item.title} 
          location={item.location}
@@ -16,7 +17,7 @@ function App() {
          image={item.image}
          startDate={item.startDate}
          endDate={item.endDate}
-         
+         urlLocation={item.googleMapsUrl}
          />
          
     )
