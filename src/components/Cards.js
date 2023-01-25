@@ -4,6 +4,7 @@ import { icon } from '@fortawesome/fontawesome-svg-core/import.macro'
 import {faLocationPin}  from '@fortawesome/free-solid-svg-icons'
 
 export default function Cards(props) {
+  console.log(props)
 
   return (
     <div>
