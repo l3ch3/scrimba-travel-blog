@@ -28,8 +28,7 @@ h3{
 
 .country{
   letter-spacing: 2px;
-  margin-left: 5px;
-  margin-bottom: 6px;
+  margin: 0 0 0 5px;
 }
 
 a{
@@ -41,6 +40,8 @@ a{
   display: flex;
   flex-direction: row;
   align-items: center ;
+  margin-bottom: 5px;
+ 
 }
 
 
