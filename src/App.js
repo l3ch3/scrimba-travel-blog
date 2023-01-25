@@ -26,7 +26,7 @@ function App() {
     <div className="App">
           <Navbar />
           {cards}
-          console.log(cards)
+        
     </div>
   );
 }

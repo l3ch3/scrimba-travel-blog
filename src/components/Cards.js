@@ -10,7 +10,7 @@ export default function Cards(props) {
     <div>
          <div className="card-layout">
             {/* <img className="card-image"src={require("../images/mount-fuji.png")} /> */}
-            <img className="card-image"src={`require("../images/${props.image}")`} />
+            <img className="card-image"src={require(`../images/${props.image}`)} />
                 <div className="left-side-card">
                     <div className="location-map">
                         <FontAwesomeIcon icon={faLocationPin} />
